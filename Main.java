@@ -8,12 +8,6 @@ public class Main {
 		double nfact = 1; //Declaring initial variable value
 		boolean check = true;
 		
-	System.out.println("*******************************************************\r\n" +
-		 "ES1036b: Lab 04 Q1\r\n" + "Date: 2019-02-26 \r\n" +
-		 "Name: Evelyn Batson \r\n" + "Stuent Number: 251 010 073 \r\n" +
-		 "********************************************** \r\n"
-		 + "This program will determine the factorial of an integer");
-	/*Outputs purpose of program to user  */
 	
 	Scanner inputScanner = new Scanner(System.in); //Naming and initializing scanner
 	System.out.println("Please enter an integer: "); //Prompting user input
